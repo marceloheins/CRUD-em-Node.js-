@@ -1,0 +1,11 @@
+Criar CRUD
+- user
+- category
+- sales
+- product
+- client
+
+Regras de negócio 
+- nao pode 2 clientes com o mesmo cpf
+- nao pode duas categorias com nomes iguais 
+- nao pode dois produtos com o mesmo nome
